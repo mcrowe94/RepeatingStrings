@@ -1,0 +1,16 @@
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.exe
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.deps.json
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.runtimeconfig.json
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.runtimeconfig.dev.json
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.dll
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\ref\RepeatingStrings.dll
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\bin\Debug\net5.0\RepeatingStrings.pdb
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.csproj.AssemblyReference.cache
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.AssemblyInfoInputs.cache
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.AssemblyInfo.cs
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.csproj.CoreCompileInputs.cache
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.dll
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\ref\RepeatingStrings.dll
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.pdb
+C:\Users\mcrow\OneDrive\Desktop\repos\RepeatingStrings\RepeatingStrings\obj\Debug\net5.0\RepeatingStrings.genruntimeconfig.cache
